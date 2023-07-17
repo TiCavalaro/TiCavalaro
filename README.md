@@ -1,20 +1,4 @@
 
-
-<table align="right">
-  <tr>
-    <td height="43px">
-      <a href="README.md">Português 🇧🇷</a>
-    </td>
-  </tr>
-  <tr>
-    <td height="43px">
-      <b>
-        <a href="readme-en.md">English 🇺🇸</a>
-      </b>
-    </td>
-  </tr>
-</table>
-
 <ul>
   <li>🤩️ Passionate about Programming and Music.</li>
   <li>💻 I am currently seeking employment opportunities. I have completed a comprehensive course in C# through a partnership between Atos and UFN. I am currently studying
