@@ -5,7 +5,7 @@
     clean code in C# and I have successfully completed numerous courses on Udemy.</li>
   <li>🔭 With less than 2 years of <strong>experience</strong>, I have autonomy in several of the most relevant front-end and back-end technologies on the market.</li>
   <li>🔮 I'm specializing in Back-end, but I am Full-Stack.</li>
-  <li>🇺🇸 I have intermediate English.</li>
+  <li>I have intermediate English.</li>
     <details>
       <summary>👽 Curiosities:</summary>
       <ul>
